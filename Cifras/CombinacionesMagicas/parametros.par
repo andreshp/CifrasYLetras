@@ -1,0 +1,6 @@
+*************** Problemas De las Cifras, Combinaciones Mágicas ****************
+NumeroDatos= 14
+Datos= 1 2 3 4 5 6 7 8 9 10 25 50 75 100
+LongitudCombinacion= 6
+LimiteInferior= 100
+LimiteSuperior= 999
